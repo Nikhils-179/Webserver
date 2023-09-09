@@ -46,5 +46,5 @@ func main() {
 		log.Fatal(err)
 	}
 	fmt.Printf("Server started at port at port *8080")
-	fmt.Println("Good Bye")
+	fmt.Println("Good Bye!!")
 }
